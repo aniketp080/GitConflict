@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+Hi My name is Krishna ....!
+
+This file is created by Aniket .....
+
+This file is modified by Krishna.....! 
+=======
+Hi My name is Balram ....!
+
+This file is created by Aniket .....
+
+This file is modified by Balram............
+>>>>>>> branch2
